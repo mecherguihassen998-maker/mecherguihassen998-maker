@@ -13,10 +13,10 @@
 <br><br>
 
 <a href="https://github.com/mecherguihassen998-maker">
-  <img alt="stats" src="https://github-readme-stats-72vmipq9l-hassen-s-workflow.vercel.app/api?username=mecherguihassen998-maker&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE&border_color=1F2A44&v=2" width="49%">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=mecherguihassen998-maker&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE&border_color=1F2A44" width="49%">
 </a>
 <a href="https://github.com/mecherguihassen998-maker">
-  <img alt="top languages" src="https://github-readme-stats-72vmipq9l-hassen-s-workflow.vercel.app/api/top-langs?username=mecherguihassen998-maker&layout=compact&langs_count=8&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&border_color=1F2A44&v=2" width="49%">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mecherguihassen998-maker&layout=compact&langs_count=8&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&border_color=1F2A44" width="49%">
 </a>
 
 <br><br>
