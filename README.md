@@ -1,4 +1,4 @@
-<!--
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9a986720-d3db-4335-80e0-ca993e7cc2c0" /><!--
   Hassen Mechergui — GitHub profile README
 -->
 
@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/hassen-mechergui-3545553a0">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/hassenmechergui">
+  <a href="https://instagram.com/hassenmechergui](https://www.instagram.com/hassen.mechergui10/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/hassenmechergui">
