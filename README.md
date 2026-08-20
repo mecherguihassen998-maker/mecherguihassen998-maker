@@ -1,6 +1,5 @@
 <!--
   Hassen Mechergui — GitHub profile README
-  Repo: mecherguihassen998-maker/mecherguihassen998-maker (branch: main)
 -->
 
 <img alt="Hassen Mechergui" src="./dark.svg" width="100%">
@@ -9,15 +8,15 @@
 
 <!-- ─────────────  STATS  ───────────── -->
 
-<img alt="streak" src="https://streak-stats.demolab.com/?user=mecherguihassen998-maker&theme=transparent&background=0A101F&stroke=1F2A44&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8&hide_border=false" width="100%">
+<img alt="streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=mecherguihassen998-maker&theme=transparent&background=0A101F&stroke=1F2A44&ring=A78BFA&fire=10B981&currStreakLabel=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8&hide_border=false" width="100%">
 
 <br><br>
 
 <a href="https://github.com/mecherguihassen998-maker">
-  <img alt="stats" src="https://github-readme-stats-hassen-s-workflow.vercel.app/api?username=mecherguihassen998-maker&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE&border_color=1F2A44&hide_border=false" width="49%">
+  <img alt="stats" src="https://github-readme-stats-72vmipq9l-hassen-s-workflow.vercel.app/api?username=mecherguihassen998-maker&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE&border_color=1F2A44&hide_border=false" width="49%">
 </a>
 <a href="https://github.com/mecherguihassen998-maker">
-  <img alt="top languages" src="https://github-readme-stats-hassen-s-workflow.vercel.app/api/top-langs?username=mecherguihassen998-maker&layout=compact&langs_count=8&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&border_color=1F2A44&hide_border=false" width="49%">
+  <img alt="top languages" src="https://github-readme-stats-72vmipq9l-hassen-s-workflow.vercel.app/api/top-langs?username=mecherguihassen998-maker&layout=compact&langs_count=8&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0&border_color=1F2A44&hide_border=false" width="49%">
 </a>
 
 <br><br>
